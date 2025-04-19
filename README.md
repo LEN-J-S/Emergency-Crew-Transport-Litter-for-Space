@@ -11,7 +11,7 @@ Judged by:
 
 Being part of Robotics-UH and the different CAD challenges we have done in the past, this challenge was a benchmark for involving all engineering majors to brainstorm ideas for this challenge. The CAD assignment was the most exciting part the team was excited to have taken part in bringing different ideas while building the mechanism in CAD.
 
-**What it does**
+### What it does
 
 The litter will be used for moving an incapacitated astronauts from their particular location to safety. The whole Litter will be 50lbs and 25lbs will be distributed with each astronauts to be carried at every location. The Litter will also be motor and self propelled. The Litter is also capable of moving for 14 Km at 4Km/hr.
 
