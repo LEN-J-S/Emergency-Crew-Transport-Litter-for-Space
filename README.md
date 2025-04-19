@@ -7,7 +7,7 @@ Judged by:
 - Martin Garcia - NASA
 - Carson Hula - NASA
 
-![Winning Photo](nasa.jpg)
+![Winning Photo](Winners.png)
 
 
 ***Devpost Link: https://tinyurl.com/p4y2bk32***
